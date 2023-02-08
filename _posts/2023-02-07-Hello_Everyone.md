@@ -23,4 +23,9 @@ print ('Hello World')
 ```
 ## Now arvind wants to say hi
 
-![arvind](/_site/assets/img/favicons/android-chrome-512x512.png)
+![arvind](/assets/img/arvind.jpg)
+_Heyyy_
+
+## look at these posers
+
+![poser](/assets/img/IMG_3900.jpg)
