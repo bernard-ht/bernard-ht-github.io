@@ -1,6 +1,6 @@
 ---
 title: Hello Everyone
-author: bernard
+author: bernard-ht
 date: 2023-02-06 00:10:00 +0800
 categories: [Blogging, Tutorial]
 tags: [google analytics, pageviews]
@@ -29,3 +29,5 @@ _Heyyy_
 ## look at these posers
 
 ![poser](/assets/img/IMG_3900.jpg)
+
+sorry lai :(
